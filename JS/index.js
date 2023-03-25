@@ -1,7 +1,7 @@
 //fetching data
 async function fetchData() {
   await fetch(
-    "https://api.github.com/repos/SauravMukherjee44/CodeIN-Community-Website/contributors"
+    "https://api.github.com/repos/Sre-N/bastille.github.io/contributors"
   ) //api for the get request
     .then((response) => response.json())
     .then((data) => {
