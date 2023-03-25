@@ -11,4 +11,5 @@ collective actions of our community can make a difference to end disparity now.
 
 For us art is anything done and raised with passion including fiery petitions,
 unconventional book review columns, blogs, music, paintings, videos,short films, tweets and
-random literature. We give you the stage to raise your voice. Join in for our bohemian revolution
+random literature. We give you the stage to raise your voice.
+Join in for our bohemian revolution!
