@@ -23,9 +23,9 @@ Join in for our bohemian revolution!
 
 We have used Airtable to maintain the content database and then integrated ChatGPT for bias detection and open content moderation.
 We have used Datafetcher, an extension, to connect the airtable database and Chatgpt.
-We have also automated some of the processes using airtable. 
+We have also automated some processes using airtable. 
 For example: Sending out mails after bias check has been done indicating the presence or absence of bias
-              or posting the tweet directly on on twitter oage if it doesn't have any bias
+              or posting the tweet directly on on twitter page if it doesn't have any bias
               
  This link connects you to the form : https://airtable.com/shr3MpyBC7KEIeebL
  
