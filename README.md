@@ -39,3 +39,7 @@ For example: Sending out mails after bias check has been done indicating the pre
 
   It is pretty simple. Go into the extensions and once you see Data Fetcher, run the module and it'll give you the yes or no in the 'Biased or not' coloumn of the grid view.
   To understand how the extension works, check out the formulas in the coloumn' Biased or not' and explore Datafetcher
+  
+  
+  
+  Check out the vedio for more info on integrating ChatGPT with Dataafetcher on Airtable: https://drive.google.com/file/d/1jAXilygAnhWozTf1tbCpp66bK2d5Y5Aj/view?usp=sharing
