@@ -21,7 +21,7 @@ Join in for our bohemian revolution!
 
 ### AI for bias detection
 
-We have used Airtable to maintain the content database and then integrated ChatGPT for boas detection and open content moderation.
+We have used Airtable to maintain the content database and then integrated ChatGPT for bias detection and open content moderation.
 We have used Datafetcher, an extension, to connect the airtable database and Chatgpt.
 We have also automated some of the processes using airtable. 
 For example: Sending out mails after bias check has been done indicating the presence or absence of bias
