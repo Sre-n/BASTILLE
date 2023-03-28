@@ -44,4 +44,5 @@ For example: Sending out mails after bias check has been done indicating the pre
   
   Check out the vedio for more info on integrating ChatGPT with Data fetcher on Airtable: 
   https://drive.google.com/file/d/1xYoNDah-XlCgOAfydV7WpLnhTOP8CCP_/view?usp=sharing. ( How to use data fetcher in the blog form)
+  
   https://drive.google.com/file/d/1jAXilygAnhWozTf1tbCpp66bK2d5Y5Aj/view?usp=sharing. ( Getting started with Datafetcher)
