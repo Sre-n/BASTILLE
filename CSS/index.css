@@ -1,4 +1,9 @@
 /*------- styling for the contributor section ------*/
+.rewards{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+}
 .contributors-holder{
     background-color: black;
     padding: 30px;
