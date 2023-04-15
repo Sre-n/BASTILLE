@@ -1,5 +1,7 @@
 # BASTILLE
 
+# GDSC WOW
+
 ### The Project
 
 We connect citizens and artists to call upon social leaders, corporate lesders and philanthropists to do their part.
@@ -17,6 +19,17 @@ For us art is anything done and raised with passion including fiery petitions,
 unconventional book review columns, blogs, music, paintings, videos,short films, tweets and
 random literature. We give you the stage to raise your voice.
 Join in for our bohemian revolution!
+
+
+### The Team
+
+[Sreni Saji](https://github.com/Sre-n)
+
+[Lakshmi N](https://github.com/LakshmiNeithilath)
+
+[Nithya K](https://github.com/NkNithya)
+
+[Anena Samarin](https://github.com/sammyrin)
 
 
 ### AI for bias detection
@@ -47,3 +60,5 @@ For example: Sending out mails after bias check has been done indicating the pre
   https://drive.google.com/file/d/1xYoNDah-XlCgOAfydV7WpLnhTOP8CCP_/view?usp=sharing. ( How to use data fetcher in the blog form)
   
   https://drive.google.com/file/d/1jAXilygAnhWozTf1tbCpp66bK2d5Y5Aj/view?usp=sharing. ( Getting started with Datafetcher)
+  
+  
