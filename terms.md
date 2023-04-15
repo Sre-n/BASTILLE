@@ -1,4 +1,0 @@
-hwsusiojiw
-dorko
-jui
-jjiode
